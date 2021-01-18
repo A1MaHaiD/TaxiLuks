@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TaxiLuks</string>
+    <string name="taxi_luks">Taxi Luks</string>
+    <string name="todo">TODO</string>
+    <string name="i_m_passenger">I\'m passenger</string>
+    <string name="sign_up_p">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="tap_to_log_in">Tap To Log In</string>
+    <string name="i_m_driver">I\'m driver</string>
+    <string name="sign_in_p">Sign In</string>
+    <string name="title_activity_driver_maps">Map</string>
+    <string name="sign_in">Sign IN</string>
+    <string name="GO" />
+    <string name="go">GO</string>
+    <string name="title_activity_passenger_maps">Map</string>
+
+</resources>

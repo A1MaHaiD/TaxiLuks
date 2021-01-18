@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151124703703",
+    "project_id": "taxiluks-db1d2",
+    "storage_bucket": "taxiluks-db1d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151124703703:android:278097151de0419235f392",
+        "android_client_info": {
+          "package_name": "andoid.example.taxiluks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151124703703-0ae3eqq91qolek5khvg75o0pou6lilem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "andoid.example.taxiluks",
+            "certificate_hash": "3ba128d46ef0fd8bbea1fab5f1b57267e9cce647"
+          }
+        },
+        {
+          "client_id": "151124703703-j1us4rebi8i2kcp3iujv1p0qespghq0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5XS-N-yW5kxPkU_TtMhtC8oBRfdtWz1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151124703703-j1us4rebi8i2kcp3iujv1p0qespghq0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
