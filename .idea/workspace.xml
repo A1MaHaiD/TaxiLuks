@@ -21,18 +21,22 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9346e5c-ca0f-4561-b7e5-fcede759c463" name="Default Changelist" comment="" />
+    <list default="true" id="f9346e5c-ca0f-4561-b7e5-fcede759c463" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[XA1Ultra_API_26]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -81,6 +85,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectId" id="1mmOiBHSuCAKNIpvKIHlhflyUha" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -89,11 +94,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="XA1Ultra_API_26" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-18T09:29:44.300Z" />
     <property name="ResourceManagerPrefKey.ResourceType" value="LAYOUT" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android-custom-viewC:/Users/super/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.2.1/37d55d5141066b3d118d24232fa7025b65eb3a74/material-1.2.1-sources.jar!/com/google/android/material/button/MaterialButton.java_SELECTED" value="MaterialButton" />
     <property name="android-custom-viewC:/Users/super/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
     <property name="android-custom-viewC:/Users/super/AppData/Local/Android/Sdk/sources/android-30/android/widget/EditText.java_SELECTED" value="EditText" />
@@ -278,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610971432865</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All Files">
+      <created>1610971891181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610971891181</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,33 +300,31 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="All Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="130" key="#Inspections" timestamp="1610229433165">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="395" y="130" key="#Inspections/0.40.1536.824@0.40.1536.824" timestamp="1610229433165" />
+    <state x="654" y="315" key="#Notifications" timestamp="1610972117057">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="654" y="315" key="#Notifications/0.40.1536.824@0.40.1536.824" timestamp="1610972117057" />
+    <state x="0" y="37" key="#app" timestamp="1612110367335">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="0" y="37" key="#app/0.40.1536.824@0.40.1536.824" timestamp="1612110367335" />
     <state x="574" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1610491812289">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
@@ -341,10 +353,10 @@
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="545" y="198" key="AndroidProcessChooserDialog/0.40.1536.824@0.40.1536.824" timestamp="1610175176843" />
-    <state x="410" y="40" key="CommitChangelistDialog2" timestamp="1610971431830">
+    <state x="410" y="40" key="CommitChangelistDialog2" timestamp="1610971888391">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="410" y="40" key="CommitChangelistDialog2/0.40.1536.824@0.40.1536.824" timestamp="1610971431830" />
+    <state x="410" y="40" key="CommitChangelistDialog2/0.40.1536.824@0.40.1536.824" timestamp="1610971888391" />
     <state x="549" y="207" key="FileChooserDialogImpl" timestamp="1610971249322">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
@@ -365,14 +377,22 @@
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state width="1491" height="210" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1610557672572" />
-    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1610971635574">
+    <state x="647" y="172" key="RollbackChangesDialog" timestamp="1610972059754">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1610971635574" />
+    <state x="647" y="172" key="RollbackChangesDialog/0.40.1536.824@0.40.1536.824" timestamp="1610972059754" />
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1610972086088">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1610972086088" />
     <state x="584" y="230" key="chooseDestDirectoryDialog" timestamp="1610539946291">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="584" y="230" key="chooseDestDirectoryDialog/0.40.1536.824@0.40.1536.824" timestamp="1610539946291" />
+    <state x="569" y="353" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1610972077006">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="569" y="353" key="git4idea.remote.GitConfigureRemotesDialog/0.40.1536.824@0.40.1536.824" timestamp="1610972077006" />
     <state x="425" y="207" key="run.anything.popup" timestamp="1610209859823">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
